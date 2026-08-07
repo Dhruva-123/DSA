@@ -1,0 +1,77 @@
+1. Arrays & Hashing
+
+Two Sum
+Maximum Subarray (Kadane's Algorithm)
+Product of Array Except Self
+Merge Intervals
+Container With Most Water
+Longest Substring Without Repeating Characters
+Subarray Sum Equals K
+Group Anagrams
+
+2. Trees & Graphs (BFS/DFS)
+
+Binary Tree Level Order Traversal
+Validate Binary Search Tree
+Lowest Common Ancestor of a Binary Tree
+Number of Islands
+Clone Graph
+Course Schedule (topological sort)
+Word Ladder (BFS shortest path)
+Diameter of Binary Tree
+Serialize and Deserialize a Binary Tree
+
+3. Dynamic Programming
+
+Climbing Stairs
+House Robber
+Coin Change
+Longest Increasing Subsequence
+Unique Paths
+Longest Common Subsequence
+Edit Distance
+0/1 Knapsack
+
+4. Strings
+
+Longest Palindromic Substring
+Valid Anagram
+String to Integer (atoi) — good for edge-case handling
+Encode and Decode Strings
+Minimum Window Substring
+Group Shifted Strings / Anagram-adjacent problems
+
+5. Linked Lists
+
+Reverse a Linked List
+Detect Cycle in a Linked List (Floyd's)
+Merge Two Sorted Lists
+Remove Nth Node From End of List
+Reorder List
+LRU Cache (also ties into #7 below)
+Copy List with Random Pointer
+Fix/repair a corrupted doubly linked list (this exact style showed up in a real Microsoft report)
+
+6. Binary Search / Sorted Arrays
+
+Binary Search (the plain vanilla version — know it cold)
+Search in Rotated Sorted Array
+Find First and Last Position of Element in Sorted Array
+Kth Smallest Element in a Sorted Matrix
+Median of Two Sorted Arrays (harder, but has appeared at MS-level interviews)
+
+7. Data Structure Design
+
+LRU Cache
+Design a HashMap (from scratch, no built-ins)
+Implement Stack using Queues / Queue using Stacks
+Min Stack
+Design a Circular Queue
+
+8. Backtracking / Combinatorics
+
+Combination Sum (repetition allowed — this is the exact pattern from the real MS report above)
+Subsets
+Permutations
+N-Queens (less likely for intern level, but good for the pattern)
+Word Search (grid backtracking)
