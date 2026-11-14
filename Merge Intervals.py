@@ -1,15 +1,15 @@
-##### There isn't much going on here. It's just about cleverly using a for loop to get the answer flowing. 
-
-class Solution(object):
-    def merge(self, intervals):
-        intervals.sort()
-        prev = intervals[0]
+class Solution:
+    def merge(self, intervals: list[list[int]]) -> list[list[int]]:
+        intervals.sort(key=lambda x: x[0])
+        left = intervals[0][0]
+        right = intervals[0][1]
         ans = []
-        for i in range(1, len(intervals)):
-            if prev[1] >= intervals[i][0]:
-                prev[1] = max(prev[1], intervals[i][1])
+        for item in intervals:
+            if (item[0] >= left and item[0] <= right):
+                right = max(right, item[1])
             else:
-                ans.append(prev)
-                prev = intervals[i]
-        ans.append(prev)
+                ans.append([left, right])
+                left = item[0]
+                right = item[1]
+        ans.append([left , right])
         return ans

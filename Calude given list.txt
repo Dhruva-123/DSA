@@ -1,13 +1,7 @@
 1. Arrays & Hashing
 
-Two Sum
-Maximum Subarray (Kadane's Algorithm)
-Product of Array Except Self
-Merge Intervals
 Container With Most Water
-Longest Substring Without Repeating Characters
 Subarray Sum Equals K
-Group Anagrams
 
 2. Trees & Graphs (BFS/DFS)
 
