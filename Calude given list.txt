@@ -5,12 +5,7 @@ Subarray Sum Equals K
 
 2. Trees & Graphs (BFS/DFS)
 
-Binary Tree Level Order Traversal
-Validate Binary Search Tree
-Lowest Common Ancestor of a Binary Tree
 Number of Islands
-Clone Graph
-Course Schedule (topological sort)
 Word Ladder (BFS shortest path)
 Diameter of Binary Tree
 Serialize and Deserialize a Binary Tree
