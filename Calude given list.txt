@@ -32,11 +32,6 @@ Group Shifted Strings / Anagram-adjacent problems
 
 5. Linked Lists
 
-Reverse a Linked List
-Detect Cycle in a Linked List (Floyd's)
-Merge Two Sorted Lists
-Remove Nth Node From End of List
-Reorder List
 LRU Cache (also ties into #7 below)
 Copy List with Random Pointer
 Fix/repair a corrupted doubly linked list (this exact style showed up in a real Microsoft report)
