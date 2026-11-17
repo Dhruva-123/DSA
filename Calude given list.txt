@@ -38,7 +38,6 @@ Fix/repair a corrupted doubly linked list (this exact style showed up in a real 
 
 6. Binary Search / Sorted Arrays
 
-Binary Search (the plain vanilla version — know it cold)
 Search in Rotated Sorted Array
 Find First and Last Position of Element in Sorted Array
 Kth Smallest Element in a Sorted Matrix
@@ -53,9 +52,5 @@ Min Stack
 Design a Circular Queue
 
 8. Backtracking / Combinatorics
-
-Combination Sum (repetition allowed — this is the exact pattern from the real MS report above)
-Subsets
 Permutations
 N-Queens (less likely for intern level, but good for the pattern)
-Word Search (grid backtracking)
